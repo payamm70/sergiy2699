@@ -1,4 +1,5 @@
-### sergiy2699
+### - **Discord**: [sergiy2699](https://discord.com/users/sergiy2699)
+
 
 <!--
 **sergiy2699/sergiy2699** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
